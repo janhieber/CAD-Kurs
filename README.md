@@ -7,3 +7,5 @@
 ![kolben](https://raw.githubusercontent.com/janhieber/CAD-Kurs/master/kolben.png)
 ![zylinder](https://raw.githubusercontent.com/janhieber/CAD-Kurs/master/zylinder.png)
 ![zylinderkopf](https://raw.githubusercontent.com/janhieber/CAD-Kurs/master/zylinderkopf.png)
+![pleuel](https://raw.githubusercontent.com/janhieber/CAD-Kurs/master/pleuel.png)
+![auspuff](https://raw.githubusercontent.com/janhieber/CAD-Kurs/master/auspuff.png)
