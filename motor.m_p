@@ -1,0 +1,84 @@
+﻿                      Masseneigenschaft von BAUGRUPPE MOTOR
+
+                        VOLUMEN =  5.7800689e+04 MM^3
+                 FLÄCHENINHALT =  5.6886712e+04 MM^2
+                MITTLERE DICHTE =  7.8500000e-06 KILOGRAMM / MM^3
+                          MASSE =  4.5373541e-01 KILOGRAMM 
+
+             SCHWERPUNKT in Bezug auf den Koordinatenrahmen _MOTOR:
+X   Y   Z           1.4618532e+01  8.2074685e-01  1.2858084e+01  MM
+
+       Trägheit in Bezug auf Koordinatensystem _MOTOR  (KILOGRAMM * MM^2)
+
+TRÄGHEITSTENSOR:
+Ixx Ixy Ixz         3.3816185e+02 -6.2206564e+00 -8.3385760e+01
+Iyx Iyy Iyz        -6.2206564e+00  5.5793000e+02 -1.8311450e+01
+Izx Izy Izz        -8.3385760e+01 -1.8311450e+01  3.3613477e+02
+
+          Trägheit im Schwerpunkt in Bezug auf Koordinatenrahmen _MOTOR
+                                                    (KILOGRAMM * MM^2)          
+TRÄGHEITSTENSOR:
+Ixx Ixy Ixz         2.6283998e+02 -7.7668727e-01  1.9012101e+00
+Iyx Iyy Iyz        -7.7668727e-01  3.8594985e+02 -1.3523075e+01
+Izx Izy Izz         1.9012101e+00 -1.3523075e+01  2.3886520e+02
+
+                    HAUPTTRÄGHEITSMOMENT:  (KILOGRAMM * MM^2)
+I1  I2  I3          2.3750105e+02  2.6296394e+02  3.8719004e+02
+
+            Rotationsmatrix von _MOTOR Orientierung auf Hauptachsen:
+                      -0.07177        0.99739       -0.00761
+                       0.09011        0.01408        0.99583
+                       0.99334        0.07078       -0.09089
+
+       Rotationswinkel von _MOTOR Orientierung auf Hauptachsen (in Grad):
+Winkel um x  y  z     -95.215         -0.436        -94.116 
+
+               Umlaufbewegungsradius in Bezug auf die Hauptachsen:
+R1  R2  R3          2.2878705e+01  2.4073917e+01  2.9211964e+01  MM
+
+
+
+                Masseneigenschaften der Komponenten der Baugruppe
+            (in Baugruppeneinheiten und dem Koordinatensystem _MOTOR)
+
+                                     MATERIAL
+           DICHTE         MASSE      SCHW.PKT.:  X        Y         Z
+
+    GEHAUSE                          10116_S235J2G3
+         7.85000e-06  1.07088e-01  4.05627e+00  0.00000e+00  1.41117e+00
+    BUCHSE                           10116_S235J2G3
+         7.85000e-06  2.85392e-02 -5.78781e+00  0.00000e+00  0.00000e+00
+    KURBELWELLE                      10116_S235J2G3
+         7.85000e-06  6.36363e-02 -4.60412e+00 -2.34465e-01  1.40711e-01
+    PLEUEL                           10116_S235J2G3
+         7.85000e-06  5.77571e-03  1.42000e+01 -4.45733e+00  1.73134e+01
+    BOLZEN                           10116_S235J2G3
+         7.85000e-06  1.66855e-03  1.42000e+01  0.00000e+00  3.46553e+01
+    KOLBEN                           10116_S235J2G3
+         7.85000e-06  1.97448e-02  1.40000e+01  0.00000e+00  3.56845e+01
+    ZYLINDER                         10116_S235J2G3
+         7.85000e-06  7.34081e-02  1.40000e+01  1.98359e-02  3.62596e+01
+    ZYLINDERKOPF                     10116_S235J2G3
+         7.85000e-06  2.71418e-02  1.40000e+01  0.00000e+00  5.17857e+01
+    TANK                             10116_S235J2G3
+         7.85000e-06  7.63342e-02  3.78657e+01  0.00000e+00  0.00000e+00
+    DECKEL                           10116_S235J2G3
+         7.85000e-06  2.53859e-02  5.30272e+01  0.00000e+00  0.00000e+00
+    AUSPUFF                          10116_S235J2G3
+         7.85000e-06  1.51702e-02  1.64353e+01  2.71328e+01  4.50000e+01
+    DEI4762_0020_0060_129            STAHL_ALLGEMEIN
+         7.85000e-06  3.08209e-04  2.21317e+01 -8.13173e+00  5.00686e+01
+    DEI4762_0020_0060_129            STAHL_ALLGEMEIN
+         7.85000e-06  3.08209e-04  5.86827e+00 -8.13173e+00  5.00686e+01
+    DEI4762_0020_0060_129            STAHL_ALLGEMEIN
+         7.85000e-06  3.08209e-04  5.86827e+00  8.13173e+00  5.00686e+01
+    DEI4762_0020_0060_129            STAHL_ALLGEMEIN
+         7.85000e-06  3.08209e-04  2.21317e+01  8.13173e+00  5.00686e+01
+    DEI4762_0030_0300_129            STAHL_ALLGEMEIN
+         7.85000e-06  2.15243e-03  4.22453e+01 -1.27279e+01  1.27279e+01
+    DEI4762_0030_0300_129            STAHL_ALLGEMEIN
+         7.85000e-06  2.15243e-03  4.22453e+01 -1.27279e+01 -1.27279e+01
+    DEI4762_0030_0300_129            STAHL_ALLGEMEIN
+         7.85000e-06  2.15243e-03  4.22453e+01  1.27279e+01 -1.27279e+01
+    DEI4762_0030_0300_129            STAHL_ALLGEMEIN
+         7.85000e-06  2.15243e-03  4.22453e+01  1.27279e+01  1.27279e+01
